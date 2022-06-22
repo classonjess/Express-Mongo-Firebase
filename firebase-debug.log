@@ -1,0 +1,29 @@
+[debug] [2022-06-21T17:36:20.284Z] ----------------------------------------------------------------------
+[debug] [2022-06-21T17:36:20.285Z] Command:       /Users/jessicaclasson/.nvm/versions/node/v14.18.3/bin/node /Users/jessicaclasson/.nvm/versions/node/v14.18.3/bin/firebase init
+[debug] [2022-06-21T17:36:20.285Z] CLI Version:   11.1.0
+[debug] [2022-06-21T17:36:20.285Z] Platform:      darwin
+[debug] [2022-06-21T17:36:20.285Z] Node Version:  v14.18.3
+[debug] [2022-06-21T17:36:20.286Z] Time:          Tue Jun 21 2022 11:36:20 GMT-0600 (Mountain Daylight Time)
+[debug] [2022-06-21T17:36:20.286Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-06-21T17:36:20.288Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-06-21T17:36:20.288Z] > authorizing via signed-in user (jessicaclasson4@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/jessicaclasson/Desktop/setting up an Express Data Abstraction layer with mongodb
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
